@@ -1,0 +1,64 @@
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\Marat.exe.config
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\Marat.exe
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\Marat.pdb
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\EntityFramework.dll
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\EntityFramework.SqlServer.dll
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\EntityFramework.xml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\bin\Debug\EntityFramework.SqlServer.xml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsEditPage.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsPage.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsViewPage.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\StartPage.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Windows\MainWindow.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\App.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat_MarkupCompile.cache
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat_MarkupCompile.lref
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsEditPage.baml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsPage.baml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsViewPage.baml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\StartPage.baml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Windows\MainWindow.baml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.g.resources
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.Properties.Resources.resources
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.csproj.GenerateResource.cache
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.csproj.CoreCompileInputs.cache
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.csproj.CopyComplete
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.exe
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Marat.pdb
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\FramesPages\FramesPageView.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\PositionPages\PositionPageView.g.cs
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\FramesPages\FramesPageView.baml
+H:\Мои проекты\C# .NET Framework\Windows Presentation Foundation.NET Framework\Marat\obj\Debug\Views\Pages\PositionPages\PositionPageView.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\Marat.exe.config
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\Marat.exe
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\Marat.pdb
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\EntityFramework.dll
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\EntityFramework.xml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.csprojAssemblyReference.cache
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsEditPage.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsPage.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsViewPage.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\FramesPages\FramesPageView.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\PositionPages\PositionPageView.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\StartPage.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\App.g.cs
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat_MarkupCompile.cache
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat_MarkupCompile.lref
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsEditPage.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsPage.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\ApplicantsPages\ApplicantsViewPage.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\FramesPages\FramesPageView.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\PositionPages\PositionPageView.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Pages\StartPage.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.g.resources
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.Properties.Resources.resources
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.csproj.GenerateResource.cache
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.csproj.CoreCompileInputs.cache
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.csproj.CopyComplete
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.exe
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\obj\Debug\Marat.pdb
+C:\Users\haysa\Downloads\Apple Music\Музыка айфон\Marat-version-0.2\Marat-version-0.2\bin\Debug\ru\EntityFramework.resources.dll
